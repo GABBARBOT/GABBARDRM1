@@ -69,7 +69,7 @@ async def start(bot, m: Message):
         )
     await bot.send_photo(
         chat_id=m.chat.id,
-        photo="https://iili.io/KuCBoV2.jpg",
+        photo="https://i.ibb.co/sTW3zmx/x.jpg",
         caption=caption,
         reply_markup=keyboard
     )
